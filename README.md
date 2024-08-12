@@ -1,4 +1,4 @@
-# tpc-map
+# Venue Map
 
 ![alt text](https://github.com/na-stewart/TPC-Venue-Map/blob/main/preview.PNG)
 
